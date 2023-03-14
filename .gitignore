@@ -2,3 +2,4 @@ mids/
 __pycache__/
 player/__pycache__/
 midi_config.json
+.DS_Store
