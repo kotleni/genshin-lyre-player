@@ -6,3 +6,12 @@ Lyre player for Genshin Impact can play midi files via lyre instrument.
 - Multi-file support
 - Custom keymaps support
 - Hot-keys for control playing
+
+### How to use?
+1. Start main.py in terminal: `python3 main.py`
+2. To created `mids` folder place midi files
+3. Start main.py again.
+4. Done. Can open lyre in game.
+<br>
+P.S. You can use <b>Tab + 1->9</b> keys for starting playing.
+P.S. And Space for stop.
