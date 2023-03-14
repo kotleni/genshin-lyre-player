@@ -1,0 +1,9 @@
+{
+    "configurations": [
+        {
+            "type": "python",
+            "name": "Python run",
+            "file": "main.py",
+        },
+    ]
+}
