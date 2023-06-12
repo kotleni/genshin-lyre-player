@@ -2,7 +2,7 @@ from keymaps import keymaps
 
 
 class NoteKeyMap:
-    KEY_STEPS = keymaps['456789']
+    KEY_STEPS = keymaps['qwerty']
 
     def __init__(self, root_note):
         self.map = {}
